@@ -4,9 +4,9 @@
 
 ## 配对版本
 
-* gitbook-cli@2.3.2
+* [gitbook-cli@2.3.2](https://github.com/users/gendloop/packages/npm/package/gitbook-cli)
 * [gitbook v3.2.3](https://github.com/gendloop/gitbook)
-* [Node.js v10.24.1](https://github.com/gendloop/nodejs)
+* Node.js v22.9.0
 
 ## 使用方法
 
