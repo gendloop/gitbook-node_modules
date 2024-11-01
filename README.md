@@ -10,4 +10,7 @@
 
 ## 使用方法
 
-// todo
+```
+curl -LO https://github.com/gendloop/gitbook-node_modules/releases/download/v1.0.0/node_modules.7z
+```
+
