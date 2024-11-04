@@ -1,0 +1,5 @@
+
+PROJECT_NAME=gitbook-node_modules
+gitbook-node_modules_VERSION_MAJOR=1
+gitbook-node_modules_VERSION_MINOR=0
+gitbook-node_modules_VERSION_PATCH=0
