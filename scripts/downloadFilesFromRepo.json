@@ -37,7 +37,7 @@
             "files": [
                 "Gitbook/package.json"
             ],
-            "local_dir": "../.github/workflows",
+            "local_dir": "..",
             "user": "gendloop",
             "repo": "Tools",
             "branch": "main",
