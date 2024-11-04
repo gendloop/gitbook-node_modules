@@ -1,5 +1,13 @@
 {
+  "scripts": {
+    "build": "gitbook build",
+    "serve": "gitbook serve",
+    "pdf": "gitbook pdf",
+    "epub": "gitbook epub",
+    "mobi": "gitbook mobi"
+  },
   "dependencies": {
+    "gitbook-cli": "^2.3.2",
     "gitbook-plugin-3-ba": "^0.9.0",
     "gitbook-plugin-ace": "^0.3.2",
     "gitbook-plugin-advanced-emoji": "^0.2.2",
